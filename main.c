@@ -2,7 +2,7 @@
 #include <stdlin.h>
 
 int main(){
-    puts("hello world!");
+	puts("hello world!");
 
-    return EXIT_SUCCESS;
+	return EXIT_SUCCESS;
 }
