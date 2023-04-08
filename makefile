@@ -1,4 +1,4 @@
-.PHONY all
+.PHONY: all
 
 all:
 	gcc -o main main.cpp
