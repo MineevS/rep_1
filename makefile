@@ -1,5 +1,5 @@
 .PHONY all
 
 all:
-	gcc -o main main.cpp
+	gcc -0 main main.cpp
 	./main
